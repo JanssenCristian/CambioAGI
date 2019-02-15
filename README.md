@@ -2,7 +2,7 @@
   Aplicação em Python com AGI para consulta de taxa de câmbio através de ramal VoIP
 
 
-# Descricao
+# Descrição
   Este projeto trata-se de um ramal que ao liga-lo, exibirá duas opções ao usuário. A
 primeira, terá a função de informar os valores das principais moedas mundiais em comparação
 ao real brasileiro e cadastrar tais valores, caso seja requerido. A segunda poderá consultar o
